@@ -92,7 +92,7 @@ html {
   }
   a:hover,
   a:focus {
-    color: #00baff;
+    color: rgb(0, 122, 255);
   }
   a:link {
     text-decoration: none;
