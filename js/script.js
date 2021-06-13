@@ -17,11 +17,11 @@ window.onload = function() {
   
     var messages = [
       'Hey there 👋',
-      'I\'m Mark',
-      'Currently, I am a CS Undergrad at <a href="http://www.calstatela.edu/" target="_blank">CSULA</a> 👨‍💻',
-      'I\'m graduating this May 2021 🎓',
+      'My name is Mark 🙂',
+      'I am a recent Computer Science graduate 🎓',
+      'Currently, I am looking for a Full-Time position in Software Engineering 👨‍💻',
       'Let\'s get connected 👇',
-      '<a href="https://www.linkedin.com/in/markkalaiji/" target="_blank">👤 LinkedIn</a><br><a href="https://github.com/markkalaiji" target="_blank">🐱 GitHub</a><br><a href="mailto:kalaijimark@gmail.com?subject=Hey, Mark!">📫 E-Mail</a><br><a href="img/mkresume.pdf" target="_blank">📄 Resume</a>',
+      '<a href="https://www.linkedin.com/in/markkalaiji/" target="_blank">👤 LinkedIn</a><br><a href="https://github.com/markkalaiji" target="_blank">🐙 GitHub</a><br><a href="mailto:kalaijimark@gmail.com?subject=Hey, Mark!">📫 E-Mail</a><br><a href="img/mkresume.pdf" target="_blank">📄 Resume</a>',
       getCurrentTime()
     ]
   
