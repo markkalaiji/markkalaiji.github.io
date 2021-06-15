@@ -10,15 +10,15 @@ window.onload = function() {
       var hours =  date.getHours();
       var minutes =  date.getMinutes();
       var current = hours + (minutes * .01);
-      if (current >= 5 && current < 19) return 'Have a nice day';
-      if (current >= 19 && current < 22) return 'Have a nice evening';
-      if (current >= 22 || current < 5) return 'Have a good night';
+      if (current >= 5 && current < 18) return 'Have a nice day ☀️';
+      if (current >= 18 && current < 21) return 'Have a nice evening 🌆';
+      if (current >= 21 || current < 5) return 'Have a good night 🌕';
     }
   
     var messages = [
       'Hey there 👋',
-      'My name is Mark 🙂',
-      'I am a recent Computer Science graduate 🎓',
+      'My name is Mark 👱‍♂️',
+      'I am a recent Computer Science graduate 👨‍🎓',
       'Currently, I am looking for a Full-Time position in Software Engineering 👨‍💻',
       'Let\'s get connected 👇',
       '<a href="https://www.linkedin.com/in/markkalaiji/" target="_blank">👤 LinkedIn</a><br><a href="https://github.com/markkalaiji" target="_blank">🐙 GitHub</a><br><a href="mailto:kalaijimark@gmail.com?subject=Hey, Mark!">📫 E-Mail</a><br><a href="img/mkresume.pdf" target="_blank">📄 Resume</a>',
